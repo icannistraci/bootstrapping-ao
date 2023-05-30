@@ -1,15 +1,21 @@
 # Bootstrapping parallel anchors for relative representation
 
-<p align="center">
-    <a href="https://github.com/icannistraci/bootstrapping-ao/actions/workflows/test_suite.yml"><img alt="CI" src=https://img.shields.io/github/workflow/status/icannistraci/bootstrapping-ao/Test%20Suite/main?label=main%20checks></a>
-    <a href="https://icannistraci.github.io/bootstrapping-ao"><img alt="Docs" src=https://img.shields.io/github/deployments/icannistraci/bootstrapping-ao/github-pages?label=docs></a>
-    <a href="https://github.com/grok-ai/nn-template"><img alt="NN Template" src="https://shields.io/badge/nn--template-0.2.3-emerald?style=flat&labelColor=gray"></a>
-    <a href="https://www.python.org/downloads/"><img alt="Python" src="https://img.shields.io/badge/python-3.9-blue.svg"></a>
-    <a href="https://black.readthedocs.io/en/stable/"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
-</p>
+[Slides](https://icannistraci.github.io/ao-presentation/) |
+[OpenReview](https://openreview.net/forum?id=VBuUL2IWlq) |
+[arXiv](https://arxiv.org/abs/2303.00721) |
+[BibTeX](#bibtex)
 
-Expand limited semantic correspondences between domains to enable latent communication through relative representations
+<!-- <p align="center">
+    <img alt="NN Template" src="./assets/teaser.gif">
+</p> -->
+![](./assets/teaser.gif)
 
+[Irene Cannistraci](https://irene.cannistraci.dev/),
+[Luca Moschella](https://luca.moschella.dev/),
+[Valentino Maiorca](https://gladia.di.uniroma1.it/authors/maiorca/),
+[Marco Fumero](https://gladia.di.uniroma1.it/authors/fumero/),
+[Antonio Norelli](https://noranta4.com/),
+[Emanuele Rodolà](https://gladia.di.uniroma1.it/authors/rodola/)
 
 ## Installation
 
@@ -26,7 +32,7 @@ pip install git+ssh://git@github.com/icannistraci/bootstrapping-ao.git
 ## Development installation
 
 Setup the development environment:
-
+gut
 ```bash
 git clone git@github.com:icannistraci/bootstrapping-ao.git
 cd bootstrapping-ao
